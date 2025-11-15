@@ -2,11 +2,9 @@
 
 This project uses a relational database with three tables:
 
-neighborhoods
-
-buildings
-
-affordable_units
+1. neighborhoods
+2. buildings
+3. affordable_units
 
 ### Click below to view the ERD online:
 
@@ -14,7 +12,7 @@ affordable_units
 
 ## 📄 ERD Code (DBML Format)
 
-''text 
+```text
 
 Table neighborhoods {
   neighborhood_id int [pk]
