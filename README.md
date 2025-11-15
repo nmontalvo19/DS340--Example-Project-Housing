@@ -1,5 +1,5 @@
 # DS340--Example-Project-Housing
-# Affordable Housing & Neighborhood Analysi
+# Affordable Housing & Neighborhood Analysis
 
 ## Context
 
