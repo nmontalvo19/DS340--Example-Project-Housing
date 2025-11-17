@@ -46,7 +46,7 @@ By the end of this project, you should be able to:
 ## Deliverables
 
 ```text
-columbia-sql-housing-project/
+sql-housing-project/
 │
 ├── data/
 │   ├── neighborhoods.csv
@@ -57,9 +57,8 @@ columbia-sql-housing-project/
 │   └── erd_diagram.png              # your ERD export (PNG or PDF)
 │
 ├── sql/
-│   ├── project_queries.sql          # your completed queries for Parts 2 & 3
+│   ├── queries.sql          # your completed queries for Parts 2 & 3
 │   ├── create_tables.sql            # Part 1 (optional but recommended)
-│   └── sample_results.sql           # optional, if you want saved output
 │
 ├── summary/
 │   └── written_summary.md           # 1–2 paragraph reflection on results
@@ -70,5 +69,4 @@ columbia-sql-housing-project/
 │   └── q3_results.png
 │
 ├── README.md                         # main project overview & instructions
-└── LICENSE (optional)
 
